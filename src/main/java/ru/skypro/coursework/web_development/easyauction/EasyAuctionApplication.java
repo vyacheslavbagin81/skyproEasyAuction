@@ -1,5 +1,6 @@
 package ru.skypro.coursework.web_development.easyauction;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

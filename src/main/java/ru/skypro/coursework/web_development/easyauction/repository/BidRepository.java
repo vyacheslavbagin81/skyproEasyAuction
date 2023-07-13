@@ -7,6 +7,7 @@ import ru.skypro.coursework.web_development.easyauction.pojo.BidModel;
 
 import java.util.Optional;
 
+
 @Repository
 public interface BidRepository extends CrudRepository<BidModel, Integer> {
 

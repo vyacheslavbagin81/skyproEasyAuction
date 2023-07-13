@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 import ru.skypro.coursework.web_development.easyauction.pojo.StatusLot;
 
 
+
 @Component
 @Data
 @AllArgsConstructor

@@ -1,5 +1,6 @@
 package ru.skypro.coursework.web_development.easyauction.pojo;
 
+
 public enum StatusLot {
     STARTED("STARTED"),
     STOPPED("STOPPED"),
