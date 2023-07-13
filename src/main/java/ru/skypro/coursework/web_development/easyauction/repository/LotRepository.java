@@ -1,5 +1,6 @@
 package ru.skypro.coursework.web_development.easyauction.repository;
 
+
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.PagingAndSortingRepository;

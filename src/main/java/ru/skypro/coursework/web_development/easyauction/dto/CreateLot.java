@@ -1,5 +1,6 @@
 package ru.skypro.coursework.web_development.easyauction.dto;
 
+
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

@@ -5,6 +5,7 @@ import ru.skypro.coursework.web_development.easyauction.dto.Lot;
 import ru.skypro.coursework.web_development.easyauction.pojo.LotModel;
 import ru.skypro.coursework.web_development.easyauction.pojo.StatusLot;
 
+
 public class LotMap {
     public static LotModel mapToLotModel(CreateLot lot) {
         return LotModel.builder()

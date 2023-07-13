@@ -1,5 +1,6 @@
 package ru.skypro.coursework.web_development.easyauction.service;
 
+
 import ru.skypro.coursework.web_development.easyauction.dto.CreateLot;
 
 public class CheckCreateLot {

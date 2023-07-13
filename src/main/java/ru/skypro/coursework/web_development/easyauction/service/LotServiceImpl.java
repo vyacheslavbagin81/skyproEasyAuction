@@ -1,5 +1,6 @@
 package ru.skypro.coursework.web_development.easyauction.service;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;

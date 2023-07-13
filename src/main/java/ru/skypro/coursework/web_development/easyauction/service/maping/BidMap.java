@@ -1,5 +1,6 @@
 package ru.skypro.coursework.web_development.easyauction.service.maping;
 
+
 import ru.skypro.coursework.web_development.easyauction.dto.Bid;
 
 public class BidMap {
